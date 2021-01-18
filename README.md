@@ -3,9 +3,9 @@ By the use of this script you can remove the boring interface of your termux and
 # Installation
 
 ```bash
-git clone https://github.com/TheShubhendra/YourName.git
+git clone https://github.com/SDMH-Hacking-TV/interface444.git
 
-cd YourName
+cd interface444
 
 chmod +x run.sh
 
